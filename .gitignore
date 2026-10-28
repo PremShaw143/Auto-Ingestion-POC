@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+token.json
+credentials.json
+client_secret*.json
+db.sqlite3
+*.log
+.pytest_cache/
+.coverage
