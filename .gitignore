@@ -12,3 +12,6 @@ db.sqlite3
 *.log
 .pytest_cache/
 .coverage
+
+downloaded_files/
+media/attachments/
